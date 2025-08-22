@@ -1,0 +1,17 @@
+
+.container{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    gap: 23px;
+}
+.box{
+    height: 65px;
+    width: 65px;
+    border: 2px solid black;
+    align-items: center;
+    display: flex;
+     justify-content: center;
+     margin-top: 35px;
+}
